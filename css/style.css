@@ -7522,6 +7522,10 @@ button.bg-dark:focus {
   width: 50% !important;
 }
 
+.w-40 {
+  width: 50% !important;
+}
+
 .w-75 {
   width: 75% !important;
 }
@@ -7536,6 +7540,10 @@ button.bg-dark:focus {
 
 .h-25 {
   height: 25% !important;
+}
+
+.h-40 {
+  height: 40% !important;
 }
 
 .h-50 {
@@ -10100,7 +10108,7 @@ h6,
 .testimonial-carousel .owl-item img {
   width: 80px;
   height: 80px;
-  border-radius: 80px;
+  border-radius: 30px;
 }
 
 .testimonial-carousel .owl-dots {
