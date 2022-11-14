@@ -10106,9 +10106,9 @@ h6,
 }
 
 .testimonial-carousel .owl-item img {
-  width: 80px;
-  height: 80px;
-  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
 }
 
 .testimonial-carousel .owl-dots {
