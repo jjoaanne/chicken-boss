@@ -1250,6 +1250,10 @@ pre code {
     flex: 0 0 33.33333%;
     max-width: 33.33333%;
   }
+  .mcol-lg-4 {
+    flex: 0 0 33.33334%;
+    max-width: 33.33334%;
+  }
   .col-lg-5 {
     flex: 0 0 41.66667%;
     max-width: 41.66667%;
@@ -2726,7 +2730,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-outline-secondary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(98, 195, 231, 0.5);
+  box-shadow: #ffffff;
 }
 
 .btn-outline-success {
