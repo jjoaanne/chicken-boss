@@ -2607,7 +2607,7 @@ fieldset:disabled a.btn {
   color: #212529;
   background-color: #ececec;
   border-color: #e6e6e6;
-  box-shadow: 0 0 0 0.2rem rgba(222, 222, 223, 0.5);
+  box-shadow: 0 0 0 0.2rem #ffffff;
 }
 
 .btn-light.disabled, .btn-light:disabled {
@@ -2625,7 +2625,7 @@ fieldset:disabled a.btn {
 
 .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus,
 .show > .btn-light.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(222, 222, 223, 0.5);
+  box-shadow: #ffffff;
 }
 
 .btn-dark {
@@ -2644,7 +2644,7 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #202020;
   border-color: #1a1a1a;
-  box-shadow: 0 0 0 0.2rem rgba(82, 82, 82, 0.5);
+  box-shadow: #151515;
 }
 
 .btn-dark.disabled, .btn-dark:disabled {
@@ -2662,7 +2662,7 @@ fieldset:disabled a.btn {
 
 .btn-dark:not(:disabled):not(.disabled):active:focus, .btn-dark:not(:disabled):not(.disabled).active:focus,
 .show > .btn-dark.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(82, 82, 82, 0.5);
+  box-shadow: #151515;
 }
 
 .btn-outline-primary {
@@ -2677,7 +2677,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(241, 149, 178, 0.5);
+  box-shadow: #ffffff;
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
@@ -2703,13 +2703,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary:hover {
-  color: #212529;
+  color: #ffffff;
   background-color: #ec9006;
   border-color: #ec9006;
 }
 
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(98, 195, 231, 0.5);
+  box-shadow: #ffffff;
 }
 
 .btn-outline-secondary.disabled, .btn-outline-secondary:disabled {
@@ -2719,7 +2719,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-secondary.dropdown-toggle {
-  color: #212529;
+  color: #ffffff;
   background-color: #ec9006;
   border-color: #ec9006;
 }
