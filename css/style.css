@@ -10191,6 +10191,12 @@ h6,
   padding: 0 16px;
 }
 
+.col-25,
+.col-50,
+.col-75 {
+  padding: 0 16px;
+}
+
 input[type=text] {
   width: 100%;
   margin-bottom: 20px;
