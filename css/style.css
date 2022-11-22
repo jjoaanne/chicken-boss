@@ -9813,7 +9813,7 @@ h6,
     border-radius: 60px;
   }
   #header-carousel,
-  .page-header {
+  .about-header,.menu-header,.newsletter-header,.checkout-header{
     margin-top: -45px;
   }
 }
@@ -9827,8 +9827,23 @@ h6,
   z-index: 1;
 }
 
-.page-header {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/header.jpg), no-repeat center center;
+.about-header {
+  background: url(../img/header-1.jpg), no-repeat center center;
+  background-size: cover;
+}
+
+.menu-header {
+  background: url(../img/header-2.jpg), no-repeat center center;
+  background-size: cover;
+}
+
+.newsletter-header {
+  background: url(../img/header-3.jpg), no-repeat center center;
+  background-size: cover;
+}
+
+.checkout-header {
+  background: url(../img/header-4.jpg), no-repeat center center;
   background-size: cover;
 }
 
