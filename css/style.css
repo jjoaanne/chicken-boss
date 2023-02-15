@@ -10298,3 +10298,51 @@ span.price {
   text-align: center;
   margin-right: 25px;
 }
+
+.reference {
+  z-index: 100;
+  color: gray;
+  position: absolute;
+  margin-left: 5px;
+  bottom: 0px;
+}
+.reference-header {
+  z-index: 100;
+  color: gray;
+  position: absolute;
+  margin-left: 5px;
+  bottom: 20rem;
+}
+.reference-team {
+  z-index: 100;
+  color: gray;
+  position: absolute;
+  margin-left: 5px;
+  bottom: 0px;
+  font-size: 0.75rem;
+}
+.reference-checkout {
+  z-index: 100;
+  color: gray;
+  position: absolute;
+  margin-left: 5px;
+  bottom: 19rem;
+}
+.about-wrap {
+  border: 2px solid;
+  background-color: white;
+  flex: 0 0 83.33333%;
+  max-width: 83.33333%;
+}
+.about-wrap2 {
+  border: 2px solid;
+  background-color: #fff7f3;
+  flex: 0 0 83.33333%;
+  max-width: 83.33333%;
+}
+.about-wrap3 {
+  border: 2px solid;
+  background-color: #fff7f3;
+  flex: 0 0 90%;
+  max-width: 90%;
+}
