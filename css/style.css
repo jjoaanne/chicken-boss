@@ -10333,28 +10333,28 @@ span.price {
   background-color: white;
   flex: 0 0 83.33333%;
   max-width: 83.33333%;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .about-wrap2 {
   border: 2px solid;
   background-color: #fff7f3;
   flex: 0 0 83.33333%;
   max-width: 83.33333%;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .about-wrap3 {
   border: 2px solid;
   background-color: #212121;
   flex: 0 0 90%;
   max-width: 90%;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .about-wrap-menu-item {
   border: 2px solid;
   background-color: #fff;
   flex: 0 0 77%;
   max-width: 77%;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .btn-green {
   background-color: green;
