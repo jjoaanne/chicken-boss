@@ -9854,7 +9854,7 @@ h6,
   left: 0;
   width: 100px;
   height: 5px;
-  background: #212121;
+  background: #cc0000;
 }
 
 .section-title::after {
@@ -9864,7 +9864,7 @@ h6,
   left: 0;
   width: 100px;
   height: 1px;
-  background: #ec9006;
+  background: #cc0000;
 }
 
 .section-title.text-center::before,
@@ -10253,7 +10253,7 @@ span.price {
 .cart-column {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
   margin-right: 1.5em;
   padding-bottom: 10px;
   margin-top: 10px;
@@ -10333,16 +10333,30 @@ span.price {
   background-color: white;
   flex: 0 0 83.33333%;
   max-width: 83.33333%;
+  border-radius: 15px;
 }
 .about-wrap2 {
   border: 2px solid;
   background-color: #fff7f3;
   flex: 0 0 83.33333%;
   max-width: 83.33333%;
+  border-radius: 15px;
 }
 .about-wrap3 {
   border: 2px solid;
-  background-color: #333333;
+  background-color: #212121;
   flex: 0 0 90%;
   max-width: 90%;
+  border-radius: 15px;
+}
+.about-wrap-menu-item {
+  border: 2px solid;
+  background-color: #fff;
+  flex: 0 0 77%;
+  max-width: 77%;
+  border-radius: 15px;
+}
+.btn-green {
+  background-color: green;
+  color: #fff;
 }
